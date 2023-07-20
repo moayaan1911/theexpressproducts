@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Apple iPhone 13 Pro",
+    "quantity": 10,
+    "price": 1199.99,
+    "image": "https://source.unsplash.com/random/1"
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "quantity": 20,
+    "price": 999.95,
+    "image": "https://source.unsplash.com/random/2"
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "quantity": 5,
+    "price": 499.99,
+    "image": "https://source.unsplash.com/random/3"
+  },
+  {
+    "name": "Microsoft Surface Laptop 4",
+    "quantity": 30,
+    "price": 1099.75,
+    "image": "https://source.unsplash.com/random/4"
+  },
+  {
+    "name": "Nintendo Switch",
+    "quantity": 15,
+    "price": 299.99,
+    "image": "https://source.unsplash.com/random/5"
+  },
+  {
+    "name": "Fitbit Charge 4",
+    "quantity": 0,
+    "price": 129.50,
+    "image": "https://source.unsplash.com/random/6"
+  },
+  {
+    "name": "Dyson V11 Vacuum Cleaner",
+    "quantity": 8,
+    "price": 499.0,
+    "image": "https://source.unsplash.com/random/7"
+  },
+  {
+    "name": "Apple MacBook Pro 16",
+    "quantity": 25,
+    "price": 1999.0,
+    "image": "https://source.unsplash.com/random/8"
+  },
+  {
+    "name": "Canon EOS R5",
+    "quantity": 12,
+    "price": 3899.0,
+    "image": "https://source.unsplash.com/random/9"
+  },
+  {
+    "name": "Nike Air Zoom Pegasus 38",
+    "quantity": 3,
+    "price": 119.99,
+    "image": "https://source.unsplash.com/random/10"
+  },
+  {
+    "name": "LG OLED C1 Series TV",
+    "quantity": 18,
+    "price": 2299.5,
+    "image": "https://source.unsplash.com/random/11"
+  },
+  {
+    "name": "Amazon Echo Dot (4th Gen)",
+    "quantity": 50,
+    "price": 49.99,
+    "image": "https://source.unsplash.com/random/12"
+  },
+  {
+    "name": "KitchenAid Stand Mixer",
+    "quantity": 9,
+    "price": 379.95,
+    "image": "https://source.unsplash.com/random/13"
+  },
+  {
+    "name": "GoPro HERO9 Black",
+    "quantity": 2,
+    "price": 349.99,
+    "image": "https://source.unsplash.com/random/14"
+  },
+  {
+    "name": "Samsung 55-inch QLED TV",
+    "quantity": 6,
+    "price": 1299.0,
+    "image": "https://source.unsplash.com/random/15"
+  },
+  {
+    "name": "Bose QuietComfort 35 II",
+    "quantity": 40,
+    "price": 299.0,
+    "image": "https://source.unsplash.com/random/16"
+  },
+  {
+    "name": "Logitech G Pro X Mechanical Keyboard",
+    "quantity": 7,
+    "price": 149.99,
+    "image": "https://source.unsplash.com/random/17"
+  },
+  {
+    "name": "Samsung 27-inch Curved Monitor",
+    "quantity": 14,
+    "price": 299.95,
+    "image": "https://source.unsplash.com/random/18"
+  },
+  {
+    "name": "Fitbit Versa 3",
+    "quantity": 0,
+    "price": 179.95,
+    "image": "https://source.unsplash.com/random/19"
+  },
+  {
+    "name": "Apple iPad Air",
+    "quantity": 20,
+    "price": 549.0,
+    "image": "https://source.unsplash.com/random/20"
+  },
+  {
+    "name": "Sony WH-1000XM4 Headphones",
+    "quantity": 3,
+    "price": 348.0,
+    "image": "https://source.unsplash.com/random/21"
+  },
+  {
+    "name": "Google Nest Hub",
+    "quantity": 25,
+    "price": 89.99,
+    "image": "https://source.unsplash.com/random/22"
+  },
+  {
+    "name": "Nintendo Switch OLED Model",
+    "quantity": 9,
+    "price": 349.0,
+    "image": "https://source.unsplash.com/random/23"
+  },
+  {
+    "name": "HP Envy x360 Laptop",
+    "quantity": 15,
+    "price": 849.99,
+    "image": "https://source.unsplash.com/random/24"
+  },
+  {
+    "name": "Sony A7 III",
+    "quantity": 4,
+    "price": 1798.0,
+    "image": "https://source.unsplash.com/random/25"
+  },
+  {
+    "name": "Fitbit Inspire 2",
+    "quantity": 0,
+    "price": 99.95,
+    "image": "https://source.unsplash.com/random/26"
+  },
+  {
+    "name": "Microsoft Xbox Series X",
+    "quantity": 7,
+    "price": 499.99,
+    "image": "https://source.unsplash.com/random/27"
+  },
+  {
+    "name": "Amazon Kindle Paperwhite",
+    "quantity": 20,
+    "price": 129.99,
+    "image": "https://source.unsplash.com/random/28"
+  },
+  {
+    "name": "Sony WH-1000XM3 Headphones",
+    "quantity": 11,
+    "price": 229.0,
+    "image": "https://source.unsplash.com/random/29"
+  },
+  {
+    "name": "Samsung 65-inch 4K Smart TV",
+    "quantity": 10,
+    "price": 899.99,
+    "image": "https://source.unsplash.com/random/30"
+  }
+]
